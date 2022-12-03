@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AnaMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AracBilgisiDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AracCikar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AracEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AracKiralamaKosullari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AracListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AracSecRezervasyon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AracSecTeslim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AracTeslimAl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AracTeslimEt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HasarGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MaliDurum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MaliIslemler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MusteriIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rezervasyon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
